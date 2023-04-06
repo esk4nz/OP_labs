@@ -7,7 +7,7 @@ void namesC() {
     inputFileC(nameIn, nameOut, nameF);
 }
 
-void inputFileC(char* name, char* name1, char* name2) {
+void inputFileC(char* name, char* name1, char* name2) {    
     FILE* nameIn = fopen(name, "w");
     char s[1000];
     int stop_symbol;
