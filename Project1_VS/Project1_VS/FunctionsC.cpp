@@ -7,11 +7,12 @@ void namesC() {
     inputFileC(nameIn, nameOut, nameF);
 }
 
-void inputFileC(char* name, char* name1, char* name2) {    
+void inputFileC(char* name, char* name1, char* name2) {
     FILE* nameIn = fopen(name, "w");
     char s[1000];
     int stop_symbol;
     int m;
+    printf("To stop enter the '&'\n");
     printf("Enter the text:\n");
     do {
         fgets(s, 1000, stdin);
@@ -39,6 +40,7 @@ void addNewTextC(char* name, char* name1, char* name2) {
     FILE* nameIn = fopen(name, "a");
     char s[100];
     int stop_symbol;
+    printf("To stop enter the '&'\n");
     printf("Enter the text:\n");
     int m;
     do {

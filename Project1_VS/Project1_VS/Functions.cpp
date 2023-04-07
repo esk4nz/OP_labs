@@ -8,12 +8,13 @@ void names() {
     inputFile(nameIn, nameOut, nameF);
 }
 
-void inputFile(string name, string name1, string name2) {
+void inputFile(string name, string name1, string name2) {               
     ofstream nameIn;
     nameIn.open(name);
     string s;
     int m;
     int stop_symbol;
+    cout << "To stop enter the '&'" << endl;
     cout << "Enter the text:" << endl;
     do {
         getline(cin, s);
@@ -36,6 +37,7 @@ void addNewText(string name, string name1, string name2) {
     string s;
     int m;
     int stop_symbol;
+    cout << "To stop enter the '&'" << endl;
     cout << "Enter the text:" << endl;
     do {
         getline(cin, s);

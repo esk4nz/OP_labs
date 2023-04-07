@@ -1,27 +1,2 @@
-﻿  Functions.cpp
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(20,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(42,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(64,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(65,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(89,67): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\Functions.cpp(90,72): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  FunctionsC.cpp
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(11,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(31,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(39,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(59,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(65,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(66,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(95,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(96,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(123,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(132,13): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(143,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(145,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(147,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(150,10): warning C4101: s: неиспользованная локальная переменная
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(195,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\Project1_VS\FunctionsC.cpp(197,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  main.cpp
-  Создание кода...
-  Project1_VS.vcxproj -> C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Project1_VS\x64\Debug\Project1_VS.exe
+﻿  main.cpp
+  Project1_VS.vcxproj -> C:\projects\Project1_VS\x64\Debug\Project1_VS.exe
