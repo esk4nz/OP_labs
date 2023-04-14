@@ -1,0 +1,10 @@
+﻿  Functions.cpp
+  main.cpp
+C:\projects\Project3_VS\Project3_VS\main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\projects\Project3_VS\Project3_VS\main.cpp(7,10): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\projects\Project3_VS\Project3_VS\main.cpp(8,47): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+C:\projects\Project3_VS\Project3_VS\main.cpp(9,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\projects\Project3_VS\Project3_VS\main.cpp(10,25): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\projects\Project3_VS\Project3_VS\main.cpp(11,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Project3_VS.vcxproj -> C:\projects\Project3_VS\x64\Debug\Project3_VS.exe
