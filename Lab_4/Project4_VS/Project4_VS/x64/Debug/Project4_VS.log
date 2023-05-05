@@ -1,0 +1,8 @@
+﻿  class.cpp
+  functions.cpp
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_4\Project4_VS\Project4_VS\functions.cpp(9,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_4\Project4_VS\Project4_VS\functions.cpp(12,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_4\Project4_VS\Project4_VS\main.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Project4_VS.vcxproj -> C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_4\Project4_VS\x64\Debug\Project4_VS.exe

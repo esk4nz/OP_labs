@@ -1,7 +1,7 @@
 ﻿  Functions.cpp
-C:\projects\Project2_VS\Project2_VS\Functions.cpp(38,7): warning C4101: s: неиспользованная локальная переменная
-C:\projects\Project2_VS\Project2_VS\Functions.cpp(80,10): warning C4129: P: неизвестная escape-последовательность
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_2\Project2_VS\Project2_VS\Functions.cpp(38,7): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_2\Project2_VS\Project2_VS\Functions.cpp(80,10): warning C4129: P: неизвестная escape-последовательность
   main.cpp
-C:\projects\Project2_VS\Project2_VS\main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_2\Project2_VS\Project2_VS\main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
   Создание кода...
-  Project2_VS.vcxproj -> C:\projects\Project2_VS\x64\Debug\Project2_VS.exe
+  Project2_VS.vcxproj -> C:\Users\Олександр\Desktop\Уроки\ОП\OP_labs\Lab_2\Project2_VS\x64\Debug\Project2_VS.exe
