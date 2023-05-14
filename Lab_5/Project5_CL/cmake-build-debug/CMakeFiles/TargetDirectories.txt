@@ -1,0 +1,3 @@
+C:/projects/Project5_CL/cmake-build-debug/CMakeFiles/Project5_CL.dir
+C:/projects/Project5_CL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/projects/Project5_CL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

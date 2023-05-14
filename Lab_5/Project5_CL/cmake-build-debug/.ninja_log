@@ -1,0 +1,17 @@
+# ninja log v5
+17	1004	7057013438847222	CMakeFiles/Project5_CL.dir/class.cpp.obj	d7e0afe818692987
+777	936	7057029712473007	Project5_CL.exe	f9b15a1b40ee3e4d
+3	776	7057029710922664	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+4	745	7057025650754353	CMakeFiles/Project5_CL.dir/main.cpp.obj	744d788868260495
+4	757	7057031566941243	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+757	908	7057031568421581	Project5_CL.exe	f9b15a1b40ee3e4d
+3	840	7057849003771728	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+841	1150	7057849006838201	Project5_CL.exe	f9b15a1b40ee3e4d
+3	750	7057849130478362	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+756	916	7057849132074439	Project5_CL.exe	f9b15a1b40ee3e4d
+3	725	7057849295134674	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+726	871	7057849296554993	Project5_CL.exe	f9b15a1b40ee3e4d
+20	991	7057960155478428	CMakeFiles/Project5_CL.dir/main.cpp.obj	744d788868260495
+14	1009	7057960155668463	CMakeFiles/Project5_CL.dir/class.cpp.obj	d7e0afe818692987
+3	1029	7057960155868501	CMakeFiles/Project5_CL.dir/functions.cpp.obj	28a973976d2b7064
+1030	1223	7057960157728965	Project5_CL.exe	f9b15a1b40ee3e4d
