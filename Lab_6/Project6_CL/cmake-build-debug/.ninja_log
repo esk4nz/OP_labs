@@ -1,0 +1,11 @@
+# ninja log v5
+1	693	7080209027742685	CMakeFiles/Project6_CL.dir/List.cpp.obj	e0907d7666b64cb3
+28	696	7080209027742685	CMakeFiles/Project6_CL.dir/functions.cpp.obj	abdb73e8afd0ca7c
+20	899	7080209029788710	CMakeFiles/Project6_CL.dir/main.cpp.obj	b01de6845ded4d34
+899	1122	7080209031969200	Project6_CL.exe	bfaf0c61b25818a3
+3	662	7080209403054240	CMakeFiles/Project6_CL.dir/functions.cpp.obj	abdb73e8afd0ca7c
+15	847	7080209404895397	CMakeFiles/Project6_CL.dir/main.cpp.obj	b01de6845ded4d34
+847	1015	7080209406545769	Project6_CL.exe	bfaf0c61b25818a3
+15	590	7080227265133208	CMakeFiles/Project6_CL.dir/functions.cpp.obj	abdb73e8afd0ca7c
+3	776	7080227266973624	CMakeFiles/Project6_CL.dir/main.cpp.obj	b01de6845ded4d34
+776	941	7080227268593987	Project6_CL.exe	bfaf0c61b25818a3
